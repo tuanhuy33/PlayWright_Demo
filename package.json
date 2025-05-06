@@ -1,0 +1,22 @@
+{
+  "name": "playwright_demo",
+  "version": "1.0.0",
+  "description": "Demo project with PlayWright framework",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuanhuy33/PlayWright_Demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tuanhuy33/PlayWright_Demo/issues"
+  },
+  "homepage": "https://github.com/tuanhuy33/PlayWright_Demo#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.11"
+  }
+}
